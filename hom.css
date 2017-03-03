@@ -1,0 +1,28 @@
+body{
+	font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	background-attachment: fixed;
+	background-position: center ;
+	
+	font-weight: 400;
+	font-size: 15px;
+	color: #1d3c41;
+	overflow-y: scroll;
+}
+
+.social img{
+    opacity:0.5;
+    position: absolute;
+    left:550px;
+
+
+}
+
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: darkgrey;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: black;
+}
